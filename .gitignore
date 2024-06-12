@@ -1,3 +1,12 @@
-1 __pycache__/
-2 *.idea
-3 *.venv
+__pycache__/
+*.idea
+*.venv
+Assistance/
+Home_work/
+Play_song/
+Speech_text/
+Task_2/
+Test/
+train/
+Train_test/
+Web_extract/
